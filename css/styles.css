@@ -1,0 +1,33 @@
+.azuloscuro {color: #155b75; }
+
+.azulclaro {color: #2faab9; }
+
+.verdeoscuro {color: #0c3c48; }
+
+.verdeclaro {color: #A3D55F; }
+
+.bg-azuloscuro {color: #155b75; }
+
+.bg-azulclaro {background-color: #2faab9; }
+
+.bg-verdeclaro {background-color: #A3D55F; }
+
+.navbarSupportedContent .active{background-color: #A3D55F; border-bottom-color: #A3D55F; }
+
+.boton-verde{background-color: #95cd60; color: #FFFFFF; }
+
+.boton-verde:hover{background-color: #92bf55; color: #FFFFFF; }
+
+.boton-azul{background-color: #155b75; color: #FFFFFF; }
+
+.boton-azul:hover{background-color: #003A49; color: #FFFFFF; }
+
+.boton-azulclaro{background-color: #37B0C9; color: #FFFFFF; }
+
+.boton-azulclaro:hover{background-color: #003A49; color: #FFFFFF; }
+
+.titulo{font-size: 25px; color: #1e546c; font-weight: bold; margin-bottom: 30px; }
+
+.tituloblanco{font-size: 25px; color: #ffffff; font-weight: bold; margin: 30px; }
+
+.social{font-size: 25px; color:white}
